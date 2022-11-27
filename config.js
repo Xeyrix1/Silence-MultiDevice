@@ -33,29 +33,29 @@ let witah = moment.tz('Asia/Jakarta').format('HH')
     
 /*⫘⫘⫘⫘⫘ MEDIA SOSIAL ⫘⫘⫘⫘*/
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/eabdalmufid_'
+global.sig = 'https://instagram.com/xeyrixstore'
 global.sgh = 'https://github.com/eabdalmufid'
 global.sgc = 'https://chat.whatsapp.com/I2OK9w2mkIpKngLpFs0i93'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '17788199399'
-global.nomorown = '19047502362' //Dave
+global.nomorbot = '6281586594062'
+global.nomorown = '6281280020649' //Dave
 global.adminn = '19047502362' //Dave //JANGAN DI GANTI BAGIAN INI KARNA ADA DI CREATOR, CREATOR2 & CREATOR3
 global.admin = '6287734910547' //Alvin /INI LAGI
 global.admin2 = '6288990007937' //Ahmad //INI JUGA
-global.namebot = 'Silence BOT'
-global.nameown = 'Kanna Chan'
+global.namebot = 'Xeyrix BOT'
+global.nameown = 'Xeyrix Chan'
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['19047502362'],
-  ['19047502362', 'AngelDark', true]
+  ['6281280020649'],
+  ['6281280020649', 'AngelDark', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = [6281280020649] // Want some help?
+global.prems = [6281280020649] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*⫘⫘⫘⫘ APIKEY ⫘⫘⫘⫘⫘*/
@@ -99,9 +99,9 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = 'SilenceBOT' //Main Watermark
-global.wm2 = 'AngekDark~'
-global.wm3 = '❁ Silence'
+global.wm = 'XeyrixBOT' //Main Watermark
+global.wm2 = 'Xeyrix~'
+global.wm3 = '❁ Xeyrix'
 global.botdate = `⫹⫺ Date : ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
 global.titlebot = '🌱 𝙍𝙋𝙂 | Whatsapp Bot'

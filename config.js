@@ -39,7 +39,7 @@ global.sgc = 'https://chat.whatsapp.com/I2OK9w2mkIpKngLpFs0i93'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '17788199399'
+global.nomorbot = '6281586594062'
 global.nomorown = '19047502362' //Dave
 global.adminn = '19047502362' //Dave //JANGAN DI GANTI BAGIAN INI KARNA ADA DI CREATOR, CREATOR2 & CREATOR3
 global.admin = '6287734910547' //Alvin /INI LAGI
